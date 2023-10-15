@@ -9,5 +9,5 @@
 * Gravskötare 2 sommrar
 * IKEA Säljare 1 sommar
 * Körkort
-* Jaktlisence 
+* Jaktlicense 
 * 15HP i SQL/Databaser och Java
