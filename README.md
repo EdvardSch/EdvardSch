@@ -1,16 +1,13 @@
-### Hi there 👋
+#  Edvard Schönfeldt
 
-<!--
-**EdvardSch/EdvardSch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hej!
+### Jag heter Edvard och är född och uppväxt i Skellefteå, men bor nu mera i Haparanda.
+### Jag studerar till webbutvecklare med start HT-23.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Erfarenheter och meriter
+* Vårdbiträde/Boendehandledare 8år
+* Gravskötare 2 sommrar
+* IKEA Säljare 1 sommar
+* Körkort
+* Jaktlisence 
+* 15HP i SQL/Databaser och Java
